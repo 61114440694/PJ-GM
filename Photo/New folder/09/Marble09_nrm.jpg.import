@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/Marble09_nrm.jpg-c0d0f11c861db49200423282cb553ca9.s3tc.stex"
+path.etc2="res://.import/Marble09_nrm.jpg-c0d0f11c861db49200423282cb553ca9.etc2.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://Photo/New folder/09/Marble09_nrm.jpg"
+dest_files=[ "res://.import/Marble09_nrm.jpg-c0d0f11c861db49200423282cb553ca9.s3tc.stex", "res://.import/Marble09_nrm.jpg-c0d0f11c861db49200423282cb553ca9.etc2.stex" ]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=1
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
